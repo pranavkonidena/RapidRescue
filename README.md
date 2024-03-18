@@ -7,7 +7,7 @@ This project was developed for a hackathon and aims to optimize emergency respon
 - **Mobile App:** Flutter
 - **Backend:** Django
 - **Database:** MySQL
-- **Design:** Figma
+- **Design:** [Figma File](https://www.figma.com/file/M5myYmqZk9W9NgZRTEYexi/Untitled?type=design&mode=design&t=x1NutcCZ9So1AAcP-0)
 
 ## Features
 - Real-time emergency response optimization
@@ -22,15 +22,18 @@ To set up the project, follow these steps:
 1. Clone the repository.
 2. Set up the backend server using Django and MySQL.
 3. Install dependencies for the mobile app using Flutter.
-4. Run the app on a compatible device or emulator.
+4. Run the predictor service on any linux based PC (It is a flask server)
+5. Run the app on a compatible device or emulator.
 
 ## Usage
 - Use the app to call for help in emergency situations.
 - Speak clearly to allow the app to transcribe your voice call.
 - Follow the app's instructions for first aid tips and ambulance booking.
 
-## Contribution
-Contributions to the project are welcome! Please fork the repository, make your changes, and submit a pull request.
+## Team Members
+- Aarchi
+- Dhruv
+- Pranav
+- Utsah
 
-## License
-This project is licensed under the [insert license here]. See the LICENSE file for details.
+## Made with ❤️ by Team BKL (Bahut Kaam ke Log)
